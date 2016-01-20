@@ -67,7 +67,7 @@ and assisting space maintenance as long as possible.
 **Authority;**
 
 HS, follows the path which is described in the "Space" section autonomously.
-There is no "Authority" to delegate or distribute, the access or thw repsonsibilities
+There is no "Authority" to delegate or distribute, the access or the repsonsibilities
 
 Do not forget that the space is a beast of its own. If you are a member and you want to take charge
 on some domain, you can work on this domain yourself or with other people who are also interested 
