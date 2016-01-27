@@ -12,7 +12,7 @@ Still, it's documented for interested parties.
 istanbul hackerSpace is an organic place; in this section it defines a direction which it will adhere to follow.
 So this section organizes discourse and deeds in the name of the space. 
 
-\# At this point "istanbul hackerSpace" will be referenced as "HS".
+\# From now on "istanbul hackerSpace" will be referenced as "HS".
 
 HS, detests the question "Why ?". Because the answer always is "Because we can". The right question would be "How ?"
 
